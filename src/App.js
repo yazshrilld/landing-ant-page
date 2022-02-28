@@ -11,7 +11,7 @@ const App = () => {
   return (
     <Switch>
       <Route path="/">
-        <LandingPageLayout heading="Tailwind CSS">
+        <LandingPageLayout>
           <HomePage />
         </LandingPageLayout>
       </Route>
